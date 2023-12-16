@@ -49,8 +49,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SREE HARI K
+### Register Number:212223230212
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
